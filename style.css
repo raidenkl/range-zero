@@ -104,7 +104,7 @@ body {
     transition: 0.2s;
 }
 
-.box .btn-box > div >a> button:nth-of-type(1) {
+.box .btn-box > div > input:nth-of-type(1) {
     width: 120px;
     height: 35px;
     color: rgba(255,255,255,0.9);
@@ -112,7 +112,7 @@ body {
     background: rgba(192, 119, 91, 0.5);
 }
 
-.box .btn-box > div > button:nth-of-type(2) {
+.box .btn-box > div > input:nth-of-type(2){
     width: 120px;
     height: 35px;
     margin-left: 10px;
